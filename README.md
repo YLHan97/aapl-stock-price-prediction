@@ -10,6 +10,7 @@ Paper: EMA VERSUS SMA USAGE TO FORECAST STOCK MARKETS: THE CASE OF S&P 500 AND O
 - Linear Regression
 - Ridge Regression
 - Lasso Regression
+
 **Task 2:** Based on the EMA and SMA analysis results, to predict the APPL stock price in the following three regression models.
 - Linear Regression
 - Prophet
